@@ -20,8 +20,8 @@ export function Hero() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-5xl md:text-8xl font-black tracking-tight mb-8 leading-[0.9]"
         >
-          <span className="text-gradient">ALEXANDER</span> <br />
-          <span className="text-secondary">RIVERS.</span>
+          <span className="text-gradient">IMHOEDE AMOS</span> <br />
+          <span className="text-secondary">OSIKEMHEKHA.</span>
         </motion.h1>
 
         <motion.p

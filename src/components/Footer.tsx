@@ -11,7 +11,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-12">
           <div className="text-center md:text-left">
             <div className="text-2xl font-black text-gradient tracking-tighter mb-4">
-              Alexander Rivers.
+              Imhoede Amos Osikemhekha.
             </div>
             <p className="text-secondary text-sm max-w-sm mb-8">
               Building premium digital experiences with a focus on frontend engineering and full stack scalability.
@@ -37,7 +37,7 @@ export function Footer() {
             <div className="space-y-6">
               <h4 className="text-xs font-black uppercase tracking-[0.3em] text-white">Contact</h4>
               <ul className="space-y-4 text-sm text-secondary">
-                <li>alexander@rivers.dev</li>
+                <li>amos@osikemhekha.dev</li>
                 <li>+1 (555) 987-6543</li>
                 <li>Lagos, Nigeria</li>
               </ul>
@@ -53,7 +53,7 @@ export function Footer() {
         </div>
         
         <div className="mt-20 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-6 text-[10px] uppercase font-black tracking-[0.3em] text-secondary/50">
-          <p>© 2026 ALEXANDER RIVERS. ALL RIGHTS RESERVED.</p>
+          <p>© 2026 IMHOEDE AMOS OSIKEMHEKHA. ALL RIGHTS RESERVED.</p>
           <p>BUILT WITH REACT, EXPRESS & MONGO.</p>
         </div>
       </div>
